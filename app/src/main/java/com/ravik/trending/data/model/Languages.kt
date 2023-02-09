@@ -1,4 +1,4 @@
-package com.yalematta.trending.data.model
+package com.ravik.trending.data.model
 object Languages {  
     val data = arrayOf(
         "1C Enterprise",

@@ -1,8 +1,8 @@
-package com.yalematta.trending.ui
+package com.ravik.trending.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.yalematta.trending.R
+import com.ravik.trending.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

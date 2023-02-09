@@ -1,4 +1,4 @@
-package com.yalematta.trending
+package com.ravik.trending
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

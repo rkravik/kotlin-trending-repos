@@ -1,4 +1,4 @@
-package com.yalematta.trending.ui.repos.adapter
+package com.ravik.trending.ui.repos.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -6,7 +6,7 @@ import androidx.core.view.isVisible
 import androidx.paging.LoadState
 import androidx.paging.LoadStateAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.yalematta.trending.databinding.ReposLoadStateFooterBinding
+import com.ravik.trending.databinding.ReposLoadStateFooterBinding
 
 class ReposLoadStateAdapter(private val retry: () -> Unit) : LoadStateAdapter<ReposLoadStateAdapter.LoadStateViewHolder>(){
 

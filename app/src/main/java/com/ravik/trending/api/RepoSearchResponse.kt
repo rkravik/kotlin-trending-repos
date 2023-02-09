@@ -1,7 +1,7 @@
-package com.yalematta.trending.api
+package com.ravik.trending.api
 
 import com.google.gson.annotations.SerializedName
-import com.yalematta.trending.data.model.Repo
+import com.ravik.trending.data.model.Repo
 
 data class RepoSearchResponse(
 

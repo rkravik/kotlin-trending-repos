@@ -1,4 +1,4 @@
-package com.yalematta.trending.ui.repos
+package com.ravik.trending.ui.repos
 
 import android.graphics.Color
 import android.os.Bundle
@@ -14,11 +14,11 @@ import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.paging.LoadState
-import com.yalematta.trending.R
-import com.yalematta.trending.data.model.Languages
-import com.yalematta.trending.databinding.FragmentReposBinding
-import com.yalematta.trending.ui.repos.adapter.ReposAdapter
-import com.yalematta.trending.ui.repos.adapter.ReposLoadStateAdapter
+import com.ravik.trending.R
+import com.ravik.trending.data.model.Languages
+import com.ravik.trending.databinding.FragmentReposBinding
+import com.ravik.trending.ui.repos.adapter.ReposAdapter
+import com.ravik.trending.ui.repos.adapter.ReposLoadStateAdapter
 import dagger.hilt.android.AndroidEntryPoint
 import java.util.*
 

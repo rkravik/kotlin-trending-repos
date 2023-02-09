@@ -95,7 +95,7 @@
         android:layout_margin="10dp"
         android:ellipsize="end"
         android:maxLines="1"
-        tools:text="yalematta"
+        tools:text="ravik"
         android:textAlignment="center"
         style="@style/AppTheme.Description"
         app:layout_constraintStart_toStartOf="parent"

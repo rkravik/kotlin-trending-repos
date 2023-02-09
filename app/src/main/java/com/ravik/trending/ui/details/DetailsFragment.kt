@@ -1,4 +1,4 @@
-package com.yalematta.trending.ui.details
+package com.ravik.trending.ui.details
 
 import android.content.Intent
 import android.net.Uri
@@ -12,9 +12,9 @@ import androidx.navigation.Navigation
 import androidx.navigation.fragment.navArgs
 import androidx.transition.TransitionInflater
 import com.bumptech.glide.Glide
-import com.yalematta.trending.R
-import com.yalematta.trending.databinding.FragmentDetailsBinding
-import com.yalematta.trending.internal.DateUtils
+import com.ravik.trending.R
+import com.ravik.trending.databinding.FragmentDetailsBinding
+import com.ravik.trending.internal.DateUtils
 
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.fragment_details.*

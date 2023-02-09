@@ -1,8 +1,8 @@
-package com.yalematta.trending.data
+package com.ravik.trending.data
 
 import androidx.paging.PagingSource
-import com.yalematta.trending.api.GithubApi
-import com.yalematta.trending.data.model.Repo
+import com.ravik.trending.api.GithubApi
+import com.ravik.trending.data.model.Repo
 import retrofit2.HttpException
 import java.io.IOException
 

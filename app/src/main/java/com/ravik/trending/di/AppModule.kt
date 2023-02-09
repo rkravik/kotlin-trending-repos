@@ -1,6 +1,6 @@
-package com.yalematta.trending.di
+package com.ravik.trending.di
 
-import com.yalematta.trending.api.GithubApi
+import com.ravik.trending.api.GithubApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

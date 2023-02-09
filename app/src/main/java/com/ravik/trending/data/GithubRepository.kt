@@ -1,9 +1,9 @@
-package com.yalematta.trending.data
+package com.ravik.trending.data
 
 import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.liveData
-import com.yalematta.trending.api.GithubApi
+import com.ravik.trending.api.GithubApi
 import javax.inject.Inject
 import javax.inject.Singleton
 
